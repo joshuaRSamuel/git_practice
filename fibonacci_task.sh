@@ -2,6 +2,7 @@
 n=$1
 t1=0
 t2=1
+t3=499
 echo "No of terms required: "
 echo "the fibonacci series is: "
 for (( i=0; i<n; i++))
