@@ -1,5 +1,5 @@
 #!/bin/bash
-n=$1
+n=$NO_OF_TERMS
 t1=0
 t2=1
 t3=499
